@@ -1,0 +1,2 @@
+# spacecoin
+coin
